@@ -1,6 +1,6 @@
 Install virtualenv using "pip install virtualenv"
 http://virtualenvwrapper.readthedocs.org/en/latest/ ----> Setting VirtualEnv using VirtualWrapper (after installing virtualenv)
-django-mongodb.org/topics/setup.html ---> Installing Django-mongodb (after setting the virtual env with virtualwrapper)
+http://django-mongodb-engine.readthedocs.org/en/latest/topics/setup.html---> Installing Django-mongodb (after setting the virtual env with virtualwrapper)
 https://github.com/hmarr/mongoengine/pull/519 ---> Testing MongoDb app
 http://django-mongodb.org/tutorial.html
 http://www.tutorialspoint.com/python/time_strptime.htm
